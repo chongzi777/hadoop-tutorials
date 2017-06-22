@@ -1,0 +1,4 @@
+child parent
+tom lucy
+lucy mary
+lucy jack

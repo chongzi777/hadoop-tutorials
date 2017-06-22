@@ -1,0 +1,6 @@
+factoryName addressId
+bei jing xian dai 3
+shang hai da zhong 2
+guang zhou ben tian 4
+zheng zhou ri chan 5
+hua cheng bao ma 1
